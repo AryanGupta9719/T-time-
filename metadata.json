@@ -1,0 +1,6 @@
+{
+  "name": "A Little Sorry, JAANI 💗🧸",
+  "description": "An interactive, romantic apology experience and cuddly pink world crafted especially for Taanyaaa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
